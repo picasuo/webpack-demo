@@ -28,7 +28,7 @@ module.exports = {
     contentBase: path.join(__dirname, 'dist'),
   },
 
-  //! 模块
+  //! 模块//
   module: {
     //!配置文件打包规则
     rules: [
