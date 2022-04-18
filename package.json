@@ -6,7 +6,7 @@
   "scripts": {
     "build": "NODE_ENV=production webpack",
     "dev": "NODE_ENV=development webpack serve",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   },
   "author": "",
   "license": "ISC",
