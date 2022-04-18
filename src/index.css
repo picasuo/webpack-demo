@@ -1,0 +1,16 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: url(./asset/images/photo_2022-04-13\ 00.15.50.jpeg);
+  background-size: 100% 100%;
+  margin-bottom: 20px;
+  color: aqua;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+:fullscreen {
+  width: auto;
+}

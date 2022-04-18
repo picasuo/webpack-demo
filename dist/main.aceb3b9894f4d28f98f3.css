@@ -1,0 +1,27 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: url(images/5b03dc675fc3ed084fda.jpeg);
+  background-size: 100% 100%;
+  margin-bottom: 20px;
+  color: aqua;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+:-webkit-full-screen {
+  width: auto;
+}
+
+:-ms-fullscreen {
+  width: auto;
+}
+
+:fullscreen {
+  width: auto;
+}
+
+
+/*# sourceMappingURL=main.aceb3b9894f4d28f98f3.css.map*/
