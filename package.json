@@ -8,7 +8,7 @@
     "dev": "NODE_ENV=development webpack serve",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   },
-  "author": "",
+  "author": "picasuo",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.9",
